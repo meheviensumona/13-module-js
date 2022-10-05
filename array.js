@@ -1,6 +1,6 @@
 //Example-1
 console.log('Example-1')
-var teaLine = ['palam','salam','othy','sumona','Israt','soshi','Mim','sayma'];
+var teaLine = ['ispa','salam','othy','sumona','Israt','soshi','Mim','sayma'];
 console.log(teaLine);
 //Example-2
 console.log('Example-2')
